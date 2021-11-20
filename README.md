@@ -13,3 +13,6 @@ This is a Sound Equalizer GUI App Using Python's PyQt5. It gives you the ability
     -   numpy
     -   scipy
     -   matplotlib
+
+
+![runEQ](https://user-images.githubusercontent.com/61332730/142736942-37adca25-9da1-431a-88e9-f5e878d0120c.gif)
